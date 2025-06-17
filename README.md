@@ -1,11 +1,19 @@
 # ShopeEase---E-commerce-Platform
 🛒 ShopeEase is a Ecommerce platfrom which can buy and sell products via online, this platform has a shopping cart, and a dummy payment gatway and user regstration system
 
+![Screenshot 2025-06-17 231440](https://github.com/user-attachments/assets/8c2923a8-c5af-4448-b875-9c475804676c)
 
+![Uploading Screenshot 2025-06-17 231507.png…]()
+![Screenshot 2025-06-17 231517](https://github.com/user-attachments/assets/34f9fa1c-acf2-49ed-93d3-455edd29bf0e)
+![Screenshot 2025-06-17 231526](https://github.com/user-attachments/assets/0c181730-e8b8-468c-a30f-147adbeb0d73)
+
+![Screenshot 2025-06-17 231535](https://github.com/user-attachments/assets/057a82c2-db03-448a-9098-a1409f5b9cc4)
+
+![Screenshot 2025-06-17 231555](https://github.com/user-attachments/assets/89e98dbf-a585-4351-bc29-65efb0a740db)
 
 📖 Project Overview
 
-This project is a full-stack web application developed using HTML, CSS, and JavaScript for the frontend, and PHP with MySQL (phpMyAdmin) for the backend. It demonstrates the integration of a dynamic user interface with a database-driven backend to perform essential CRUD (Create, Read, Update, Delete) operations.
+This project is a full-stack web application developed using HTML, CSS, and JavaScript for the frontend, and PHP with MySQL (phpMyAdmin) for the backend. It demonstrates the integration of a dynamic user interface with a database-driven backend to perform essential operations.
 🛠️ Technologies Used
 
     HTML5 – to structure the web pages.
@@ -55,6 +63,6 @@ This project is a full-stack web application developed using HTML, CSS, and Java
         products or records – for app-specific data
 
 
-    Improve UI with modern frameworks (e.g., Tailwind or React).
+    Improve UI with modern frameworks.
 
     Add file upload or image management functionality.
